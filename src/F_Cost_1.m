@@ -1,8 +1,3 @@
-%% 程序说明
-% 路径：D:\My_File_Total\Research\3_Code\LZP\Platoon\Vehicle_Dynamics
-% 功能：Cost
-% 时间：2024-8-15
-% 作者：刘泽澎
 function J = F_Cost_1(u0,parameter_input)
 %% 初始化
 Ts=0.1;Np=7;Nc=3;
